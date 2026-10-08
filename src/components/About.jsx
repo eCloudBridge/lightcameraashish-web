@@ -30,7 +30,7 @@ const About = () => {
               </div>
               <div>
                 <p className="text-xs text-white/50 uppercase tracking-widest">Current Setup</p>
-                <p className="text-sm font-medium text-white/90">Sony A7IV + 35mm</p>
+                <p className="text-sm font-medium text-white/90">Fujifilm XA7 + Sigma 56mm & 16mm</p>
               </div>
             </div>
           </div>

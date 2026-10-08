@@ -61,7 +61,7 @@ const Hero = () => {
         >
           <div className="glass-card px-4 py-2 rounded-full text-white/80 flex items-center gap-2">
             <span className="w-1.5 h-1.5 rounded-full bg-amber-500"></span>
-            Gear: Sony A7IV / 35mm f1.4
+            Gear: Fujifilm XA7 / Sigma 56mm & 16mm
           </div>
           <div className="glass-card px-4 py-2 rounded-full text-white/80 flex items-center gap-2">
             <span className="w-1.5 h-1.5 rounded-full bg-white/40"></span>
